@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow – Smart To-Do List Manager",
+  "description": "A modern, responsive SaaS task management dashboard powered by React and Firebase Firestore with full CRUD, search, filtering, sorting, and overdue tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
